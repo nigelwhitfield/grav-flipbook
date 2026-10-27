@@ -8,6 +8,9 @@ It consists of a YAML blueprint, a JS file and and a twig template with some inl
 
 Add the files to your theme directory, and you can then create a new page with template 'Edition'
 
+In the Twig template, the alt tag for images is hardcoded as "Manumission page" for my site; you
+will probably want to change that.
+
 Create image files for the flipbook, ideally named in numeric order, eg page_01.png,
 page_02.png and so on, and drop them onto the media upload area for the page.
 
