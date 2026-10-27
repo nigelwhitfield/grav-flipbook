@@ -8,7 +8,7 @@ It consists of a YAML blueprint, a JS file and and a twig template with some inl
 
 Add the files to your theme directory, and you can then create a new page with template 'Edition'
 
-Create image files for the flipbook, ideally named in numberic order, eg page_01.png,
+Create image files for the flipbook, ideally named in numeric order, eg page_01.png,
 page_02.png and so on, and drop them onto the media upload area for the page.
 
 You can add introductory text above the flipbook, as seen in the demo (possibly NSFW) at
